@@ -1,0 +1,146 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Villa",
+      "location": "Kochi, Kerala",
+      "category": "Residential",
+      "image": "https://assets.architecturaldigest.in/photos/60a63ab1b872edd1c5ce5840/16%3A9/w_1280%2Cc_limit/South-India-Kerala-lijo-reny-architects-photos.jpeg"
+    },
+    {
+      "id": 2,
+      "title": "Apartment",
+      "location": "Eloor, Kochi, Kerala",
+      "category": "Residential",
+      "image": "https://housing-images.n7net.in/4f2250e8/9d576b012ac6f0e9a10669b1cbb146cc/v2/large/sinmar_verona_waterfront_apartments-eloor-aluva-sinmar_properties_pvt_ltd.jpeg"
+    },
+    {
+      "id": 3,
+      "title": "House",
+      "location": "Thiruvalla, Kerala",
+      "category": "Residential",
+      "image": "https://media.licdn.com/dms/image/v2/D5622AQH4vGzgTu-RUQ/feedshare-shrink_800/feedshare-shrink_800/0/1699696360139?e=2147483647&t=1YTQvNdtdAFzXvm4LW-qtOvym8cggTpGynFqbTERcwU&v=beta"
+    },
+    {
+      "id": 4,
+      "title": "Cottage",
+      "location": "Munnar, Kerala",
+      "category": "Residential",
+      "image": "https://images.unsplash.com/photo-1510798831971-661eb04b3739?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 5,
+      "title": "Resort",
+      "location": "Wayanad, Kerala",
+      "category": "Hospitality",
+      "image": "https://images.unsplash.com/photo-1601918774946-25832a4be0d6?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 6,
+      "title": "Office",
+      "location": "Kakkanad, Kochi, Kerala",
+      "category": "Commercial",
+      "image": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 7,
+      "title": "Beach House",
+      "location": "Varkala, Kerala",
+      "category": "Residential",
+      "image": "https://images.unsplash.com/photo-1499793983690-e29da59ef1c2?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 8,
+      "title": "Restaurant",
+      "location": "Fort Kochi, Kerala",
+      "category": "Commercial",
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 9,
+      "title": "Traditional House",
+      "location": "Alappuzha, Kerala",
+      "category": "Residential",
+      "image": "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=800&q=80"
+    }
+  ],
+  "requirements": [
+    {
+      "projectId": "3",
+      "projectName": "House",
+      "estimatedCost": 3800000,
+      "name": "Arjun k",
+      "phone": "7510624897",
+      "email": "arjun@gmail.com",
+      "requirements": "oiuytfdrfghjkl;",
+      "id": 1
+    },
+    {
+      "projectId": "3",
+      "projectName": "House",
+      "estimatedCost": 10200000,
+      "name": "irfana",
+      "phone": "9995724897",
+      "email": "sumaiyah@gmail.com",
+      "requirements": "trdsfefdfgyjhukjlok;kjhjg",
+      "id": 2
+    },
+    {
+      "projectId": "3",
+      "projectName": "House",
+      "estimatedCost": 560000,
+      "name": "irfana",
+      "phone": "9995724897",
+      "email": "sumaiyah@gmail.com",
+      "requirements": "liuyfdfghjkl;./",
+      "id": 3
+    },
+    {
+      "projectId": "3",
+      "projectName": "House",
+      "estimatedCost": 560000,
+      "name": "irfana",
+      "phone": "9995724897",
+      "email": "sumaiyah@gmail.com",
+      "requirements": "hgfdrfghjklkjhgfxdf",
+      "id": 4
+    }
+  ],
+  "users": [
+    {
+      "name": "sumaiyah",
+      "email": "sumaiyah@gmail.com",
+      "phone": "9876543345",
+      "password": "sumaiyah",
+      "id": 1
+    },
+    {
+      "name": "Hunaina",
+      "email": "hunaina@gmail.com",
+      "phone": "9987654323",
+      "password": "hunaina",
+      "id": 2
+    },
+    {
+      "name": "shadiya",
+      "email": "shadiya@gmail.com",
+      "phone": "1789654321",
+      "password": "shadiya",
+      "id": 3
+    },
+    {
+      "name": "irfana",
+      "email": "irfana@gmail.com",
+      "phone": "9995724897",
+      "password": "irfana",
+      "id": 4
+    },
+    {
+      "name": "Arjun",
+      "email": "arjun@gmail.com",
+      "phone": "7510624897",
+      "password": "arjun",
+      "id": 5
+    }
+  ]
+}
